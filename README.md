@@ -2,6 +2,5 @@
 - 👀 I’m interested in app development, AI integration, and mobile performance optimization.
 - 🌱 I’m currently learning advanced Flutter techniques, Firebase integrations, and improving app security.
 - 💞️ I’m looking to collaborate on exciting mobile app projects, especially those leveraging AI or real-time data.
-- 📫 How to reach me: You can contact me via email at chaudhryawais.533@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’ve been a tech enthusiast since high school and love exploring how AI can transform everyday apps!
